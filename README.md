@@ -12,7 +12,7 @@ If dates are blank, program will not work.
 # Program Features
 
 <views.py> is the main program and the only program that should be accessed directly.
-Lessons can be added using the Add Lesson function; these lessons can then be added to the calender by clicking on the period and adding a Lesson Plan to create the agenda. The lessons are stored in lessons.json; the agenmda is stored in agenda.json.
+Lessons can be added using the Add Lesson function; these lessons can then be added to the calender by clicking on the period and adding a Lesson Plan to create the agenda. The lessons are stored in lessons.json; the agenda is stored in agenda.json.
 
 # Disclaimer
 
